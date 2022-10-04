@@ -1,4 +1,4 @@
-# Ruben Carneiro ;)
+# Ruben Carneiro :notes:
 **`I run on Linux (Ubuntu Touch Porter)`**
 
 I'm an porter i like to port devices to Ubuntu Touch and maybe.....maybe for other OS also. I am part of Ubports Community and also of Ubuntu Portugal.
@@ -21,6 +21,7 @@ As a freelancer i do jobs were i can. But i love how this all works!!!
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg"" />
 <br />
 
 #
@@ -29,16 +30,16 @@ As a freelancer i do jobs were i can. But i love how this all works!!!
 
 [![Rúben Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=rubencarneiro&theme=gruvbox)](https://github.com/rubencarneiro/github-readme-stats)
 
+[![Rúben Carneiro OpenStore](https://open-store.io/badges/pt.png)](https://open-store.io/?sort=relevance&search=R%C3%BAben%20Carneiro)
+
 <details>
- <summary><h3> :new_moon: My Jorney</h3></summary>
+ <summary><h3> :maple_leaf: My Jorney</h3></summary>
    I started when i change to Suse Linux Desktop, and i fall in love with linux build the packages configure the hardware, then after keep changing distros i fall on Ubuntu, then i started build CyanogenMod roms, after that moved to Lineage and AOSP, and also Ubuntu Touch, that is now Mainteined by The UBports Foundation.
    Then contributing to UBports Foundation i Also created WebApsp for Ubuntu Touch and maintaining some outdated Apps.
-   Im thinking to move to PMOS......lets see.
+   Im thinking to move to PostmarketOS......lets see.
 
    And by the way im starting love Python!!!
-
+###
 #
-
-[![Rúben Carneiro OpenStore](https://open-store.io/badges/pt.png)](https://open-store.io/?sort=relevance&search=R%C3%BAben%20Carneiro)
 
 [website]: https://rubencarneiro.com
