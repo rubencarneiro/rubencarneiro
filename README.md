@@ -42,8 +42,6 @@ As a freelancer i do jobs were i can. But i love how this all works!!!
 
 [![Rúben Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=rubencarneiro&theme=gruvbox)](https://github.com/rubencarneiro/github-readme-stats)
 
-[![Rúben Carneiro OpenStore](https://open-store.io/badges/pt.png)](https://open-store.io/?sort=relevance&search=R%C3%BAben%20Carneiro)
-
 <details>
  <summary><h3> :maple_leaf: My Jorney</h3></summary>
    I started when i change to Suse Linux Desktop, and i fall in love with linux build the packages configure the hardware, then after keep changing distros i fall on Ubuntu, then i started build CyanogenMod roms, after that moved to Lineage and AOSP, and also Ubuntu Touch, that is now Mainteined by The UBports Foundation.
