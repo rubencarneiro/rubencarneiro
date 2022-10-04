@@ -42,7 +42,7 @@ As a freelancer i do jobs were i can. But i love how this all works!!!
 
 [![Rúben Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=rubencarneiro&theme=gruvbox)](https://github.com/rubencarneiro/github-readme-stats)
 
-[![Rúben Carneiro github trophy](https://github-profile-trophy.vercel.app/?username=rubencarneiro&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=rubencarneiro)](https://github.com/rubencarneiro/github-profile-trophy)
 
 
 <details>
