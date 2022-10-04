@@ -26,6 +26,15 @@ As a freelancer i do jobs were i can. But i love how this all works!!!
 
 #
 
+### Where to find me
+
+[![Ruben Carneiro Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/rubenlcarneiro) [![Rúben Carneiro Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:user@example.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCcTCccwJAj-hKKtds3O975w)
+![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+#
+### Also on:
+[![Rúben Carneiro OpenStore](https://open-store.io/badges/pt.png)](https://open-store.io/?sort=relevance&search=R%C3%BAben%20Carneiro)
+
+#
 ### 📊 Stats
 
 [![Rúben Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=rubencarneiro&theme=gruvbox)](https://github.com/rubencarneiro/github-readme-stats)
