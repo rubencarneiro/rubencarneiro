@@ -7,6 +7,6 @@ As a freelancer i do jobs were i can. But i love how this all works!!!
 
 ### 📊 Stats
 
-[![Rúben Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=rubencarneiro)](https://github.com/rubencarneiro/github-readme-stats)
+[![Rúben Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=rubencarneiro&theme=gruvbox)](https://github.com/rubencarneiro/github-readme-stats)
 
 #
