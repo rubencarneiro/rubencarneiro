@@ -26,4 +26,4 @@ As a freelancer i do jobs were i can. But i love how this all works!!!
 
 [![Rúben Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=rubencarneiro&theme=gruvbox)](https://github.com/rubencarneiro/github-readme-stats)
 
-[website]: https://fkcodes.com
+[website]: https://rubencarneiro.com
