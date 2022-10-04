@@ -34,6 +34,9 @@ As a freelancer i do jobs were i can. But i love how this all works!!!
 ### Also on:
 [![Rúben Carneiro OpenStore](https://open-store.io/badges/pt.png)](https://open-store.io/?sort=relevance&search=R%C3%BAben%20Carneiro)
 
+### Buy a coffee
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/rubencarneiro?country.x=PT&locale.x=pt_PT)
 #
 ### 📊 Stats
 
