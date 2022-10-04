@@ -33,6 +33,6 @@ As a freelancer i do jobs were i can. But i love how this all works!!!
 
 #
 
-[![Rúben Carneiro OpenStore](https://open-store.io/?sort=relevance&search=R%C3%BAben%20Carneiro)](https://open-store.io/badges/en_US.png)
+[![Rúben Carneiro OpenStore](https://open-store.io/badges/pt.png)](https://open-store.io/?sort=relevance&search=R%C3%BAben%20Carneiro)
 
 [website]: https://rubencarneiro.com
